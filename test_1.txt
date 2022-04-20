@@ -1,2 +1,4 @@
 test git add
 2. commited a new line of code to clone it from remote
+
+3. git gui scan test commit
